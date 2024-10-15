@@ -1,2 +1,2 @@
-![Top Langs](https://github-readme-stats-8qpk-git-main-hirojinhos-projects.vercel.app/api/top-langs/?username=hirojinho&private=true&exclude_repo=github-readme-stats,hirojinho.github.io)
+[!Top Langs](https://github-readme-stats-8qpk-git-main-hirojinhos-projects.vercel.app/api/top-langs/?username=hirojinho&private=true&exclude_repo=github-readme-stats,hirojinho.github.io)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats-8qpk-git-main-hirojinhos-projects.vercel.app/api?username=hirojinho&private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/hirojinho/github-readme-stats#gh-dark-mode-only)
