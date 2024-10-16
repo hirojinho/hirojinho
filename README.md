@@ -28,7 +28,7 @@ This project allows multiple users to collaborate on notes in real-time, incorpo
 - [ ] **Data Storage & Analytics**: Planned (SQL for Declarative, C for Imperative Programming)
 
 #### Project Progress:
-Progress: ![](https://geps.dev/progress/30)
+![](https://geps.dev/progress/30)
 
 ---
 
