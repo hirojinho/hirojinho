@@ -4,26 +4,6 @@
 
 ---
 
-## 🚀 Current Project: Real-Time Notes
-A system for seamless multi-user collaboration with version control, recommendations, and real-time chat.
-
-### Tech Stack:
-- **Collaboration & Chat**: JavaScript, Go, Erlang (event-driven, concurrent)
-- **Version Control**: Haskell, Prolog (functional, logic programming)
-- **User System**: Java (OOP, roles & permissions)
-- **Recommendations**: Scala, SQL (reactive, declarative queries)
-- **Storage & Analytics**: SQL, C (performance optimizations)
-
-### Progress:
-✅ **Collaboration (React, Erlang, Go)**  
-✅ **Deployment (Docker, RabbitMQ)**  
-🔄 **Version Control (Haskell, Prolog) -> In Progress**  
-🔜 **User System (Java) -> Upcoming**  
-🔜 **Recommendations (Scala, Akka Streams) -> Planned**  
-🔜 **Storage & Analytics (SQL, C) -> Planned**  
-
----
-
 ## 🔧 Tech & Interests
 **Languages**: Python, JavaScript, Go, Erlang, Java, C  
 **Tools**: Node.js, Firebase, GCP, Docker  
