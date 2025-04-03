@@ -7,7 +7,7 @@
 ## 🔧 Tech & Interests
 **Languages**: Python, JavaScript, Go, Erlang, Java, C  
 **Tools**: Node.js, Firebase, GCP, Docker  
-**Specialties**: MLOps, Chatbots, LLMs, API Design, Cloud Infrastructure  
+**Specialties**: AI Agents, Chatbots, LLMs, API Design, Cloud Infrastructure  
 
 ---
 
